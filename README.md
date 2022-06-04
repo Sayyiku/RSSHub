@@ -93,10 +93,7 @@ Recurring donors will be rewarded via express issue response, or even have your 
 
 ### One-time Donation
 
-We accept donations via the following ways:
-
--   [WeChat Pay](https://diygod.me/images/wx.jpg)
--   [Alipay](https://diygod.me/images/zfb.jpg)
+We accept donations via the following wa
 -   [Paypal](https://www.paypal.me/DIYgod)
 
 ## Author
