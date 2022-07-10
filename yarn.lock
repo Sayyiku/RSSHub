@@ -5489,10 +5489,10 @@ eslint-config-prettier@8.5.0:
   resolved "https://registry.yarnpkg.com/eslint-config-prettier/-/eslint-config-prettier-8.5.0.tgz#5a81680ec934beca02c7b1a61cf8ca34b66feab1"
   integrity sha512-obmWKLUNCnhtQRKc+tmnYuQl0pFU1ibYJQ5BGhTVB08bHe9wC8qUeG7c08dj9XX+AuPj1YSGSQIHl1pnDHZR0Q==
 
-eslint-plugin-prettier@4.1.0:
-  version "4.1.0"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-prettier/-/eslint-plugin-prettier-4.1.0.tgz#1cd4b3fadf3b3cdb30b1874b55e7f93f85eb43ad"
-  integrity sha512-A3AXIEfTnq3D5qDFjWJdQ9c4BLhw/TqhSR+6+SVaoPJBAWciFEuJiNQh275OnjRrAi7yssZzuWBRw66VG2g6UA==
+eslint-plugin-prettier@4.2.1:
+  version "4.2.1"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-prettier/-/eslint-plugin-prettier-4.2.1.tgz#651cbb88b1dab98bfd42f017a12fa6b2d993f94b"
+  integrity sha512-f/0rXLXUt0oFYs8ra4w49wYZBG5GKZpAYsJSm6rnYL5uVDjd+zowwMwVZHnAjf4edNrKpCDYfXDgmRE/Ak7QyQ==
   dependencies:
     prettier-linter-helpers "^1.0.0"
 
@@ -11290,10 +11290,10 @@ ramda@^0.26.1:
   resolved "https://registry.yarnpkg.com/ramda/-/ramda-0.26.1.tgz#8d41351eb8111c55353617fc3bbffad8e4d35d06"
   integrity sha512-hLWjpy7EnsDBb0p+Z3B7rPi3GDeRG5ZtiI33kJhTt+ORCd38AbAIjB/9zRIUoeTbE/AVX5ZkU7m6bznsvrf8eQ==
 
-rand-user-agent@1.0.69:
-  version "1.0.69"
-  resolved "https://registry.yarnpkg.com/rand-user-agent/-/rand-user-agent-1.0.69.tgz#40a6f65aa41013ceb14caad216209483edcfe3cf"
-  integrity sha512-IzbAyavqJcOzAyJw4EMph51V7UACDMYUP4b2Bztq1lT1fzP0GKbjL2mP0vXFtqu0w4D/RCR9nd6+9bGjb5JbZg==
+rand-user-agent@1.0.71:
+  version "1.0.71"
+  resolved "https://registry.yarnpkg.com/rand-user-agent/-/rand-user-agent-1.0.71.tgz#21a01636862874a3bef73a691c7bdc1b9be30bf3"
+  integrity sha512-EjENPlXMoYNHjV8Suyyk+BpZ77IJ3LTy+hGCEh5QQUQGMhes/ZPbTb3ArQqMHYN3533dr7+PJUDfBdex0jdj4Q==
 
 randexp@0.4.6:
   version "0.4.6"
